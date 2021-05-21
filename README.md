@@ -7,7 +7,7 @@ This is an AR Webapp used in an artwork titled Raw Numb. It uses [AR.js](https:/
 Languages used  by in creation were HTML. 
 
 ## Artwork
-![Image of Artwork used in App](https://www.instagram.com/p/CIkJgUXFvjb/?utm_source=ig_web_copy_link)
+[Image of Artwork used with App](https://www.instagram.com/p/CIkJgUXFvjb/?utm_source=ig_web_copy_link)
 
 ## AR App
 [RawNumb](https://rawnumb.glitch.me)
